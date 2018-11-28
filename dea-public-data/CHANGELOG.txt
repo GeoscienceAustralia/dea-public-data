@@ -1,0 +1,12 @@
+# DEA Public Data Changes
+
+## 2018-11-5
+
+- Added /Website
+- Updated index.html to improve user interface and experience.
+
+## 2018-10-11
+
+- Added /CHANGELOG.txt
+- Replaced /geomedian-australia/v2.1.0/albers_grid.geojson with a version using WGS84 coordinates, as per the GeoJSON specification.
+
